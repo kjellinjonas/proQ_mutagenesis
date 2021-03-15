@@ -1,0 +1,151 @@
+sample_info = {1: 
+                   {"primer_name": "EHO-1436", 
+                    "barcode": "CACATATCAGAGTGCG", 
+                    "primer": "CAGGTTCTGGTTCTGGAAGCCATATG", 
+                    "bc_name": "bc1001_fwd",
+                    "replicate": "1",
+                    "pool": "A",
+                    "strain": "EHS-2056",
+                    "sort_info": "RFP+, GFP+",
+                    "type": "WT ProQ or silent mutation",
+                    "name": "Func-A"},
+               2: 
+                   {"primer_name": "EHO-1437", 
+                    "barcode": "ACACACAGACTGTGAG", 
+                    "primer": "CAGGTTCTGGTTCTGGAAGCCATATG", 
+                    "bc_name": "bc1002_fwd",
+                    "replicate": "2",
+                    "pool": "A",
+                    "strain": "EHS-2056",
+                    "sort_info": "RFP+, GFP+",
+                    "type": "WT ProQ or silent mutation",
+                    "name": "Func-B"},
+               3: 
+                   {"primer_name": "EHO-1438", 
+                    "barcode": "ACACATCTCGTGAGAG", 
+                    "primer": "CAGGTTCTGGTTCTGGAAGCCATATG", 
+                    "bc_name": "bc1003_fwd",
+                    "replicate": "3",
+                    "pool": "A",
+                    "strain": "EHS-2056",
+                    "sort_info": "RFP+, GFP+",
+                    "type": "WT ProQ or silent mutation",
+                    "name": "Func-C"},
+               4: 
+                   {"primer_name": "EHO-1439", 
+                    "barcode": "CACGCACACACGCGCG", 
+                    "primer": "CAGGTTCTGGTTCTGGAAGCCATATG", 
+                    "bc_name": "bc1004_fwd",
+                    "replicate": "1",
+                    "pool": "B",
+                    "strain": "EHS-2056",
+                    "sort_info": "RFP+,GFP-",
+                    "type": "ProQ expression but loss of function",
+                    "name": "NonFunc-A"},
+               5: 
+                   {"primer_name": "EHO-1440", 
+                    "barcode": "CACTCGACTCTCGCGT", 
+                    "primer": "CAGGTTCTGGTTCTGGAAGCCATATG", 
+                    "bc_name": "bc1005_fwd",
+                    "replicate": "2",
+                    "pool": "B",
+                    "strain": "EHS-2056",
+                    "sort_info": "RFP+,GFP-",
+                    "type": "ProQ expression but loss of function",
+                    "name": "NonFunc-B"},
+               6: 
+                   {"primer_name": "EHO-1441", 
+                    "barcode": "CATATATATCAGCTGT", 
+                    "primer": "CAGGTTCTGGTTCTGGAAGCCATATG", 
+                    "bc_name": "bc1006_fwd",
+                    "replicate": "3",
+                    "pool": "B",
+                    "strain": "EHS-2056",
+                    "sort_info": "RFP+,GFP-",
+                    "type": "ProQ expression but loss of function",
+                    "name": "NonFunc-C"},
+               7: 
+                   {"primer_name": "EHO-1442", 
+                    "barcode": "TCTGTATCTCTATGTG", 
+                    "primer": "CAGGTTCTGGTTCTGGAAGCCATATG", 
+                    "bc_name": "bc1007_fwd",
+                    "replicate": "1",
+                    "pool": "C",
+                    "strain": "EHS-2056",
+                    "sort_info": "Both RFP+,GFP+ and RFP+,GFP-",
+                    "type": "mix",
+                    "name": "Mix-A"},
+               8: 
+                   {"primer_name": "EHO-1443", 
+                    "barcode": "ACAGTCGAGCGCTGCG", 
+                    "primer": "CAGGTTCTGGTTCTGGAAGCCATATG", 
+                    "bc_name": "bc1008_fwd",
+                    "replicate": "2",
+                    "pool": "C",
+                    "strain": "EHS-2056",
+                    "sort_info": "Both RFP+,GFP+ and RFP+,GFP-",
+                    "type": "mix",
+                    "name": "Mix-B"},
+               9: 
+                   {"primer_name": "EHO-1444", 
+                    "barcode": "ACACACGCGAGACAGA", 
+                    "primer": "CAGGTTCTGGTTCTGGAAGCCATATG", 
+                    "bc_name": "bc1009_fwd",
+                    "replicate": "3",
+                    "pool": "C",
+                    "strain": "EHS-2056",
+                    "sort_info": "Both RFP+,GFP+ and RFP+,GFP-",
+                    "type": "mix",
+                    "name": "Mix-C"},
+               10: 
+                   {"primer_name": "EHO-1445", 
+                    "barcode": "ACGCGCTATCTCAGAG", 
+                    "primer": "CAGGTTCTGGTTCTGGAAGCCATATG", 
+                    "bc_name": "bc1010_fwd",
+                    "replicate": "1",
+                    "pool": "A",
+                    "strain": "EHS-2026",
+                    "sort_info": "RFP+, GFP+",
+                    "type": "WT ProQ",
+                    "name": "Wt-A"},
+               11: 
+                   {"primer_name": "EHO-1446", 
+                    "barcode": "CTATACGTATATCTAT", 
+                    "primer": "CAGGTTCTGGTTCTGGAAGCCATATG", 
+                    "bc_name": "bc1011_fwd",
+                    "replicate": "2",
+                    "pool": "A",
+                    "strain": "EHS-2026",
+                    "sort_info": "RFP+, GFP+",
+                    "type": "WT ProQ",
+                    "name": "Wt-B"},
+               12: 
+                   {"primer_name": "EHO-1447", 
+                    "barcode": "ACACTAGATCGCGTGT", 
+                    "primer": "CAGGTTCTGGTTCTGGAAGCCATATG", 
+                    "bc_name": "bc1012_fwd",
+                    "replicate": "3",
+                    "pool": "A",
+                    "strain": "EHS-2026",
+                    "sort_info": "RFP+, GFP+",
+                    "type": "WT ProQ",
+                    "name": "Wt-C"}}
+
+rev_primer = {"primer_name": "EHO-1448", 
+              "barcode": "TGTGCTCTCTACACAG", 
+              "primer": "GTACCCTCGAGGAGCTCGCGGCCGC",
+              "bc_name": "bc1096_rev"}
+
+proQ =  str("ATGGAAAATCAACCTAAGTTGAATAGCAGTAAAGAAGTTATCGCGTTTCTGGCCGA" +
+            "GCGTTTTCCTCACTGTTTTAGTGCGGAAGGCGAAGCTCGCCCGCTGAAAATTGGTA" +
+            "TTTTTCAGGATCTGGTAGAGCGAGTTGGGGGCGAAATGAACCTCAGCAAAACGCAA" +
+            "CTTCGTTCCGCTTTACGTCTTTATACTTCAAGCTGGCGTTACCTGTACGGCGTTAA" +
+            "GCCGGGCGCAACGCGCGTCGACCTTGATGGCAATCCGTGCGGCGAGCTGGAAGAAC" +
+            "AGCATGTCGAACATGCGCGTAAGCAGCTTGAAGAAGCCAAAGCCCGTGTTCAGGCG" +
+            "CAGCGCGCAGAGCAGCAAGCGAAAAAACGCGAAGCTGCCGCGGCGGCTGGCGAAAA" +
+            "AGAAGACGCGCCGCGACGCGAGCGTAAACCTCGCCCGGTAGCGCGTCGTAAAGAAG" +
+            "GCGCTGAACGTAAACCTCGCGCTGATAAACCGACGACGAAAGCGCCGCGTGCGCCT" +
+            "CGCGAAGAGAAGCACACGCCGGTTTCTGATATTTCAGTATTGACCGTAGGGCAGTC" +
+            "CCTCAAGGTGAAAGCGGGTAATAATGCGATGGATGCCACCGTATTAGAAATCACCA" +
+            "AAGATGGTGTCCGTGTACAGCTGAATTCGGGTATGTCTTTGATTGTACGCGCAGAA" +
+            "CACCTGGTGTTCTGA")

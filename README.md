@@ -2,7 +2,7 @@
 
 
 Collection of python scripts used to analyze ProQ saturation mutagenesis PacBio data.
-Sample info summarized in sample_info.py
+Sample info summarized in scripts/sample_info.py
 
 # Generate read stats and mutation distributions
 
